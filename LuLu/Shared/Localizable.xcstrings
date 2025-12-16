@@ -4732,7 +4732,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Desactivado"
+            "value" : "Desactivar"
           }
         },
         "fr" : {
@@ -5039,7 +5039,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Activado"
+            "value" : "Activar"
           }
         },
         "fr" : {
